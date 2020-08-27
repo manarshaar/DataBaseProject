@@ -86,4 +86,4 @@ Ordering after searching:
 
 ![](images/sc9.png)
 
-#### You can find other screenshots of the application while running in the // folder.
+#### You can find other screenshots of the application while running in the images folder.
