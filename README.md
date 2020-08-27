@@ -56,9 +56,11 @@ There is a refresh button in every tab, and an extra button in the departments t
 * There’s a different frame for each Add/Edit button in each frame to represent the data needed to enter, for example:
 
 Add in Departments:
+
 ![](images/sc3.png)
 
 Add in Products:
+
 ![](images/sc4.png)
 
 (Difference between the Edit and Add frames is just that the Edit frame would have initial data filled in it –to edit on it-).
@@ -66,16 +68,20 @@ Add in Products:
 * The Order by button works for two cases based on what’s shown on the table. 1) if it’s called after searching 2) and if it’s called after refreshing or the Show All button, as can be illustrated from the images below:
 
 Ordering after refreshing:
+
 ![](images/sc5.png)
 
 Searching:
+
 ![](images/sc6.png)
 
 Ordering after searching:
+
 ![](images/sc7.png)
 
 * At last, we used jasper report to create a report that takes data from two tables Department & Products and represent them, and illustrate the amount sold of each product by a chart.
 (This report appears when the user press on the Report button in the product tab, and it will represent data stored by then).
+
 ![](images/sc8.png)
 
 ![](images/sc9.png)
